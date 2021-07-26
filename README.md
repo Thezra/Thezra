@@ -1,6 +1,6 @@
-## Hi there, I'm Isabela - aka [Thezra][website] 👋
+## Hi there, I'm Isabela - aka [Thezra]<!-- [website] --> 👋
 
-[![Website](https://img.shields.io/website?label=Thezra.com&style=for-the-badge&url=https%3A%2F%2FThezra.com)](https://Thezra.com)
+<!-- [![Website](https://img.shields.io/website?label=Thezra.com&style=for-the-badge&url=https%3A%2F%2FThezra.com)][website] -->
 
 ## I'm a Systems and Informatic Engineering student at the National University of Colombia
 
