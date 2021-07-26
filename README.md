@@ -12,7 +12,7 @@
 
 
 <!-- [<img align="left" style="padding-right:10px;" alt="Thezra.com" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/WebPage.png?token=AHWSCKVTYY6M2TS32H5C67LBAM2OU" />][website] -->
-[<img align="left" style="padding-right:10px;" alt="Thezra | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
+[<img align="left" style="padding-right:10px;" alt="Thezra | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 
@@ -80,6 +80,6 @@
 - Aquí pondría mis proyectos... ¡¡SI TUVIERA ALGUNO!!
 
 ---
-
+--->
 [website]: https://Thezra.com
-[linkedin]: https://www.linkedin.com/in/isabela-lujan-jaramillo-012212197/ -->
+[linkedin]: https://www.linkedin.com/in/isabela-lujan-jaramillo-012212197/
