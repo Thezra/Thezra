@@ -12,7 +12,7 @@
 
 
 <!-- [<img align="left" style="padding-right:10px;" alt="Thezra.com" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/WebPage.png?token=AHWSCKVTYY6M2TS32H5C67LBAM2OU" />][website] -->
-[<img align="left" style="padding-right:10px;" alt="Thezra | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" style="padding-right:10px;" alt="Thezra | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <br />
 <br />
 
@@ -22,9 +22,9 @@
 
 ### **FrontEnd**
 
-<img align="left" style="padding-right:10px;" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/html.png?token=AHWSCKR3WQ5CBKPMFVSCH7DBAM2PG" />
-<img align="left" style="padding-right:10px;" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/css.png?token=AHWSCKRZ2HT34ER2VFLUDUDBAM2O6" />
-<img align="left" style="padding-right:10px;" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/JS.png?token=AHWSCKQ5IMBYWPAVZEDV5LLBAM2KO" />
+<img align="left" style="padding-right:10px;" alt="HTML5" width="40px" src="https://image.flaticon.com/icons/png/512/888/888909.png" />
+<img align="left" style="padding-right:10px;" alt="CSS3" width="40px" src="https://image.flaticon.com/icons/png/512/888/888897.png" />
+<img align="left" style="padding-right:10px;" alt="JavaScript" width="40px" src="https://image.flaticon.com/icons/png/512/919/919828.png" />
 
 <br />
 <br />
@@ -32,9 +32,9 @@
 
 ### **BackEnd**
 
-<img align="left" style="padding-right:10px;" alt="Python" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/Python.png?token=AHWSCKWQDU5FQDQRM6S6HXLBAM2ME" />
-<img align="left" style="padding-right:10px;" alt="Java" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/Java.png?token=AHWSCKQPARZ4NGQGV2HPXGTBAM2K2" />
-<img align="left" style="padding-right:10px;" alt="PHP" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/PHP.png?token=AHWSCKRCTOVQFTOQKTJBGQ3BAM4BI" />
+<img align="left" style="padding-right:10px;" alt="Python" width="40px" src="https://image.flaticon.com/icons/png/512/1822/1822899.png" />
+<img align="left" style="padding-right:10px;" alt="Java" width="40px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" style="padding-right:10px;" alt="PHP" width="40px" src="https://image.flaticon.com/icons/png/512/528/528261.png" />
 
 <br />
 <br />
@@ -42,8 +42,8 @@
 
 ### **Database**
 
-<img align="left" style="padding-right:10px;" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" style="padding-right:10px;" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/MySQL.png?token=AHWSCKTYHXKVSGVSOHY6CJTBAM4PC" />
+<img align="left" style="padding-right:10px;" alt="SQL" width="40px" src="https://image.flaticon.com/icons/png/512/3430/3430130.png" />
+<img align="left" style="padding-right:10px;" alt="MySQL" width="40px" src="https://image.flaticon.com/icons/png/512/919/919836.png" />
 
 <br />
 <br />
@@ -51,8 +51,8 @@
 
 ### **Enviroments**
 
-<img align="left" style="padding-right:10px;" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/VisualStudioCode.png?token=AHWSCKWCG266AVCFECSZNG3BAM2OI" />
-<img align="left" style="padding-right:10px;" alt="NetBeans" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/NetBeans.png?token=AHWSCKRQ63P5CC5BMT624XDBAM2LO" />
+<img align="left" style="padding-right:10px;" alt="Visual Studio Code" width="40px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />
+<img align="left" style="padding-right:10px;" alt="NetBeans" width="40px" src="https://netbeans.apache.org/images/apache-netbeans.svg" />
 
 <br />
 <br />
@@ -60,8 +60,8 @@
 
 ### **Repositories**
 
-<img align="left" style="padding-right:10px;" alt="Git" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/Git.png?token=AHWSCKQKFTJBPU5BR2USVTTBAM4AQ" />
-<img align="left" style="padding-right:10px;" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/GitHub.png?token=AHWSCKTH53GFI5G7RCW3FUDBAM4BA" />
+<img align="left" style="padding-right:10px;" alt="Git" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111288.png" />
+<img align="left" style="padding-right:10px;" alt="GitHub" width="40px" src="https://image.flaticon.com/icons/png/512/270/270798.png" />
 
 <!-- <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
