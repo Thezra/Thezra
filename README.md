@@ -1,4 +1,4 @@
-## Hi there, I'm Isabela - aka [Thezra]<!-- [website] --> 👋
+## Hi there, I'm Isabela Lujan - aka **Thezra**<!-- [website] --> 👋
 
 <!-- [![Website](https://img.shields.io/website?label=Thezra.com&style=for-the-badge&url=https%3A%2F%2FThezra.com)][website] -->
 
