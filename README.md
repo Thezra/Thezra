@@ -15,7 +15,7 @@
 - 📧**Personal email:** isabela259902@gmail.com
 - 📧**University email:** ilujanj@unal.edu.co
 <br />
-<br />
+
 [<img align="left" style="padding-right:10px;" alt="Thezra | LinkedIn" width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 <br />
 <br />
