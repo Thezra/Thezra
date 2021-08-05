@@ -32,7 +32,6 @@
 
 <br />
 <br />
-<br />
 
 ### **BackEnd**
 
@@ -40,7 +39,6 @@
 <img align="left" style="padding-right:10px;" alt="Java" width="40px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
 <img align="left" style="padding-right:10px;" alt="PHP" width="40px" src="https://image.flaticon.com/icons/png/512/528/528261.png" />
 
-<br />
 <br />
 <br />
 
@@ -51,14 +49,12 @@
 
 <br />
 <br />
-<br />
 
 ### **Enviroments**
 
 <img align="left" style="padding-right:10px;" alt="Visual Studio Code" width="40px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />
 <img align="left" style="padding-right:10px;" alt="NetBeans" width="40px" src="https://netbeans.apache.org/images/apache-netbeans.svg" />
 
-<br />
 <br />
 <br />
 
