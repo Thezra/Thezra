@@ -17,7 +17,7 @@
 <br />
 
 - **[LinkedIn](https://www.linkedin.com/in/isabela-lujan-jaramillo-012212197/)**
-<br />
+
 ---
 
 ## **Languages and Tools**
