@@ -18,8 +18,6 @@
 
 - **[LinkedIn](https://www.linkedin.com/in/isabela-lujan-jaramillo-012212197/)**
 <br />
-<br />
-
 ---
 
 ## **Languages and Tools**
