@@ -2,9 +2,8 @@
 
 <!-- [![Website](https://img.shields.io/website?label=Thezra.com&style=for-the-badge&url=https%3A%2F%2FThezra.com)][website] -->
 
-## I'm a Systems and Informatics Engineering student at the National University of Colombia
+## I'm a Systems and Informatics Engineering graduated from the National University of Colombia
 
-- 🎓 I’m currently finishing my degree
 - 📚 I'm always learning new things
 
 ---
