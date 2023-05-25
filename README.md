@@ -32,9 +32,7 @@
 - JavaScript
 
 **Frameworks:**
-- AngularJS
-- Angular 6
-- Angular 13
+- Angular
 - React
 <br />
 
@@ -55,17 +53,6 @@
 <!-- <img align="left" style="padding-right:10px;" alt="SQL" width="40px" src="https://image.flaticon.com/icons/png/512/3430/3430130.png" />
 <img align="left" style="padding-right:10px;" alt="MySQL" width="40px" src="https://image.flaticon.com/icons/png/512/919/919836.png" /> -->
 - SQL
-- MySQL
-<br />
-
-### **Enviroments**
-
-<!-- <img align="left" style="padding-right:10px;" alt="Visual Studio Code" width="40px" src="https://image.flaticon.com/icons/png/512/906/906324.png" />
-<img align="left" style="padding-right:10px;" alt="NetBeans" width="40px" src="https://netbeans.apache.org/images/apache-netbeans.svg" /> -->
-
-- VS Code
-- Eclipse
-- NetBeans
 <br />
 
 ### **Repositories**
