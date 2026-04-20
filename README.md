@@ -11,7 +11,7 @@
 
 
 <!-- [<img align="left" style="padding-right:10px;" alt="Thezra.com" width="40px" src="https://raw.githubusercontent.com/Thezra/Logos/main/WebPage.png?token=AHWSCKVTYY6M2TS32H5C67LBAM2OU" />][website] -->
-- 📧**Personal email:** isabela259902@gmail.com
+- 📧**Personal email:** isabelaljdev@gmail.com
 - 📧**University email:** ilujanj@unal.edu.co
 <br />
 
